@@ -15,7 +15,7 @@ import { FaNodeJs } from "react-icons/fa";
 import { BiLogoPostgresql } from "react-icons/bi";
 
 import image1 from "../assets/FM.png";
-import image2 from "../assets/kPhoto.png";
+import image2 from "../assets/KPhoto.png";
 import image3 from "../assets/GPhoto.png";
 import image4 from "../assets/SPhoto.png";
 
