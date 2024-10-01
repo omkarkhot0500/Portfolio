@@ -59,7 +59,7 @@ export const PROJECTS = [
     title: "Gemini",
     subtitle: "AI-based platform for interacting with generative models.",
     image: image3,
-    deployedLink: "https://main--gemini-ai0.netlify.app/",
+    deployedLink: "https://gemini-clone-lac-one.vercel.app/",
   },
   {
     title: "Spotify",
