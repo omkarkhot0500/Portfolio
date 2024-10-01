@@ -44,28 +44,28 @@ export const ABOUT = {
 };
 export const PROJECTS = [
   {
-    title: "FlareMap",
-    subtitle: "Displays active wildfires using NASA and Google APIs.",
-    image: image1,
-    deployedLink: "https://flaremap.onrender.com",
-  },
-  {
     title: "Kawaii Shop",
     subtitle: "Anime sticker shop with dynamic product management.",
     image: image2,
     deployedLink: "https://kawaii-shop.onrender.com",
   },
   {
-    title: "Gemini",
-    subtitle: "AI-based platform for interacting with generative models.",
-    image: image3,
-    deployedLink: "https://gemini-clone-lac-one.vercel.app/",
+    title: "FlareMap",
+    subtitle: "Displays active wildfires using NASA and Google APIs.",
+    image: image1,
+    deployedLink: "https://flaremap.onrender.com",
   },
   {
     title: "Spotify",
     subtitle: "Spotify clone with playlist and streaming features.",
     image: image4,
     deployedLink: "https://spotify-web-a-pp.netlify.app/",
+  },
+  {
+    title: "Gemini",
+    subtitle: "AI-based platform for interacting with generative models.",
+    image: image3,
+    deployedLink: "https://gemini-clone-lac-one.vercel.app/",
   },
 ];
 
