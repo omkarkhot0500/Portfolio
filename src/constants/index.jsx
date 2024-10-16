@@ -53,7 +53,7 @@ export const PROJECTS = [
     title: "FlareMap",
     subtitle: "Displays active wildfires using NASA and Google APIs.",
     image: image1,
-    deployedLink: "https://flaremap.onrender.com",
+    deployedLink: "https://github.com/omkarkhot0500/FlareMap/blob/main/README.md#flare-map",
   },
   {
     title: "Spotify",
