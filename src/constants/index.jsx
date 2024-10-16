@@ -47,7 +47,7 @@ export const PROJECTS = [
     title: "Kawaii Shop",
     subtitle: "Anime sticker shop with dynamic product management.",
     image: image2,
-    deployedLink: "https://kawaii-shop.onrender.com",
+    deployedLink: "https://github.com/omkarkhot0500/Kawaii_Shop/blob/main/README.md",
   },
   {
     title: "FlareMap",
