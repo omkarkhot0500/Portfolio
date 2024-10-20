@@ -17,7 +17,9 @@ import { BiLogoPostgresql } from "react-icons/bi";
 import image1 from "../assets/FM.png";
 import image2 from "../assets/KPhoto.png";
 import image3 from "../assets/GPhoto.png";
-import image4 from "../assets/SPhoto.png";
+import image4 from "../assets/PromptVerse.png";
+import image5 from "../assets/main.png";
+import image6 from "../assets/bookstore.png";
 
 import user1 from "../assets/profile-pictures/user1.jpg";
 import user2 from "../assets/profile-pictures/user2.jpg";
@@ -50,16 +52,28 @@ export const PROJECTS = [
     deployedLink: "https://github.com/omkarkhot0500/Kawaii_Shop/blob/main/README.md",
   },
   {
+    title: "PromptVerse",
+    subtitle: "Developed a powerful tool for crafting and sharing AI prompts, optimizing interaction across diverse AI platforms.",
+    image: image4,
+    deployedLink: "https://prompt-verse-k.vercel.app/",
+  },
+  {
     title: "FlareMap",
     subtitle: "Displays active wildfires using NASA and Google APIs.",
     image: image1,
     deployedLink: "https://github.com/omkarkhot0500/FlareMap/blob/main/README.md#flare-map",
   },
   {
-    title: "Spotify",
-    subtitle: "Spotify clone with playlist and streaming features.",
-    image: image4,
-    deployedLink: "https://spotify-web-a-pp.netlify.app/",
+    title: "My-Portal",
+    subtitle: "Academic tool that helps students to keep track of classes, grades, and assignments in an easy, no non-sense way.",
+    image: image5,
+    deployedLink: "https://github.com/omkarkhot0500/StudentAssignmentAndGrade/blob/main/README.md",
+  },
+  {
+    title: "Book Store",
+    subtitle: "An anime bookstore with secure private routes, offering personalized access to exclusive content and a seamless user experience.",
+    image: image6,
+    deployedLink: "https://github.com/omkarkhot0500/BookStore/blob/main/README.md",
   },
   {
     title: "Gemini",
